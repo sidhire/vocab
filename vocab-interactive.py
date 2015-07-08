@@ -1,5 +1,7 @@
+# Interactive program that gets word definitions.
+#
 # Takes a newline delimited list of vocabulary words and outputs definitions ...
-# to a CSV file.
+# to a CSV file. USER PICKS THE DEFINITIONS.
 # Args: Source txt file of newline-delimited words, Blank destination CSV file
 #
 # Requires nltk package installed according to these instructions:
