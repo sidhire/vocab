@@ -1,3 +1,7 @@
+# Program that automatically finds word defintions.
+# MUCH LESS USEFUL than vocab-interactive.py since this doesn't necessarily
+# get the preferred definition of a word. Use the interactive version instead!
+#
 # Takes a newline delimited list of vocabulary words and outputs definitions ...
 # to a CSV file.
 # Args: Source txt file of newline-delimited words, Blank destination CSV file
